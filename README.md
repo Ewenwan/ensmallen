@@ -7,7 +7,10 @@ function to optimize. It also provides a large set of standard and cutting-edge
 optimizers that can be used for virtually any mathematical optimization task.
 These include full-batch gradient descent techniques, small-batch techniques,
 gradient-free optimizers, and constrained optimization.
-
+  
+  ensmallen提供了一组简单的抽象，用于编写目标函数进行优化。 
+  它还提供了大量标准和凸优化器，几乎可用于任何数学优化任务。 
+  这些包括完整批次梯度下降技术，小批量技术，无梯度优化和约束优化。
 
 ### Requirements
 
